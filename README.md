@@ -21,13 +21,13 @@ To run this game, you'll need Python installed on your system. Follow these step
    ```
 2. **Navigate into the project directory:**
    ```bash
-   cd hangman-game
+   cd Game-Python-Hangman
    ```
 
 3. **Usage:**
 Run the game using Python:
    ```bash
-   python hangman_game.py
+   python Hangman.py
    ```
 Follow the prompts to select a category and start guessing letters. The game will display the current state of the word and track your guesses.
 
