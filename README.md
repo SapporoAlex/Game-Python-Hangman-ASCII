@@ -19,38 +19,16 @@ To run this game, you'll need Python installed on your system. Follow these step
    ```bash
    git clone https://github.com/SapporoAlex/Game-Python-Hangman.git
    ```
-Navigate into the project directory:
+2. **Navigate into the project directory:**
+   ```bash
+   cd hangman-game
+   ```
 
-```bash
-cd hangman-game
-```
-(Optional) Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-Activate the virtual environment:
-
-Windows:
-```bash
-venv\Scripts\activate
-```
-macOS/Linux:
-```bash
-source venv/bin/activate
-```
-Install any dependencies (if applicable):
-
-```bash
-pip install -r requirements.txt
-```
-Usage
+3. **Usage:**
 Run the game using Python:
-
-```bash
-
-python hangman_game.py
-```
+   ```bash
+   python hangman_game.py
+   ```
 Follow the prompts to select a category and start guessing letters. The game will display the current state of the word and track your guesses.
 
 ## Game Rules
